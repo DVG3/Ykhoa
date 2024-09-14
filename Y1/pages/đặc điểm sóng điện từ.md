@@ -1,0 +1,1 @@
+- Đặc điểm sóng điện từ bao gồm: bước sóng, tần số, năng lượng

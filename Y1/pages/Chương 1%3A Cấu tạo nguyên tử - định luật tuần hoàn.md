@@ -1,0 +1,8 @@
+- Mục tiêu:
+	- Hiểu được cấu tạo nguyên tử => Áp dụng đồng vị phóng xạ vào chữa ung thư
+	- Hiểu được [[đặc điểm sóng điện từ]] => Chẩn đoán hình ảnh
+	- [[Sự biến thiên của chất]] trong bảng tuần hoàn
+- Nội dung:
+- [[Lịch sử cấu tạo phân tử]]
+- [[Tiên đề lượng tử ánh sáng]]
+- [[Kênh Kali - Natri]]
