@@ -1,2 +1,2 @@
 - [[Chương 1: Cấu tạo nguyên tử - định luật tuần hoàn]]
--
+- [[Chương 2: Cấu tạo nguyên tử - liên kết hóa học]]

@@ -1,0 +1,6 @@
+- Vật chất di chuyển cũng tạo ra sóng điện từ gọi là sóng kết hợp
+- $\lambda = \frac{h}{m*v}$
+- Vật càng **lớn** => **m** càng **lớn** => $\lambda$ càng **bé** => Tính **hạt**
+- Vật càng **bé** => **m** càng **nhỏ** => $\lambda$ càng **nhỏ** => Tính sóng
+- Electron lưỡng tính
+- $\lambda$ càng nhỏ => f càng lớn => năng lượng càng lớn

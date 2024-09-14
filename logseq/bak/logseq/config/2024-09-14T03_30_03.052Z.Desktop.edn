@@ -422,6 +422,4 @@
  :feature/enable-journals? false
  :feature/enable-whiteboards? true
  :default-home {:page "Trang chủ"}
- :graph/settings {:excluded-pages? true}
- :graph/forcesettings {:link-dist 140
- :charge-strength -800}}
+ :graph/settings {:excluded-pages? false}}
